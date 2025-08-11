@@ -26,7 +26,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/sanjayk444/login-form.git
+git clone https://github.com/sanjayk444/Login-Form-.git
 Navigate to the project folder
 
 bash
