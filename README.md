@@ -34,7 +34,7 @@ Copy
 Edit
 cd login-form
 Open in Browser
-http:file:///C:/Users/tnsan/Desktop/login%20form/index.html
+https://loginform10.netlify.app
 
 Simply double-click index.html or open with Live Server in VS Code.
 
