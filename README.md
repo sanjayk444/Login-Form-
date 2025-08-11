@@ -34,7 +34,7 @@ Copy
 Edit
 cd login-form
 Open in Browser
-file:///C:/Users/tnsan/Desktop/login%20form/index.html
+http:file:///C:/Users/tnsan/Desktop/login%20form/index.html
 
 Simply double-click index.html or open with Live Server in VS Code.
 
